@@ -11,10 +11,8 @@ These are some project I wrote in my free time, in purpose of learning Android S
 **Inspiration**
 
 It is written to demonstrate how the application can be designed to work offline and properly sync with the server as network becomes available, with minimal distraction to the user experience.
-This topic was presented by Yigit Boyar via his The Android Architecture Talk at Android Dev Summit 2015.
-
-[talk by Yigit Boyar](https://www.youtube.com/watch?v=70WqJxymPr8&t=574s) 
-
+This topic was presented by Yigit Boyar via his The Android Architecture Talk at Android Dev Summit 2015.  
+[talk by Yigit Boyar](https://www.youtube.com/watch?v=70WqJxymPr8&t=574s)  
 [his source code](https://github.com/yigit/dev-summit-architecture-demo)
 
 In that meantime, Android Architecture was beta and I wanted to try them out. Beside, Kotlin was introduced as Android future language.
@@ -33,8 +31,7 @@ In that meantime, Android Architecture was beta and I wanted to try them out. Be
   * For listening to local database change mechanism, instead of using Android supported Room-LiveData, I made the alternative by using Android Content Provider and Content Observer for this
 
 
-**Source Code**
-
+**Source Code**  
 [git](https://github.com/mrThinBone/OfflineFirst)
 
 
@@ -43,8 +40,7 @@ In that meantime, Android Architecture was beta and I wanted to try them out. Be
 
 ### AndroidCanvas
 
-**Inspiration**
-
+**Inspiration**  
 As title, every UI component starts with Canvas, also plenty of awesome UI libraries outside and blogs/articles cover how to Android customview make me wonder if I can do some.
 
 
@@ -57,8 +53,7 @@ As title, every UI component starts with Canvas, also plenty of awesome UI libra
   * There're some more, either from some other libraries or my idea, but written in Kotlin and purpose of learing Android Canvas
 
 
-**Source Code**
-
+**Source Code**  
 [git](https://github.com/mrThinBone/AndroidCanvas)
 
 
@@ -67,21 +62,17 @@ As title, every UI component starts with Canvas, also plenty of awesome UI libra
 
 ### BookMyShow
 
-**Inspiration**
-
-Recently, I started learning Android "again" from this brilliant [Styling Android](https://blog.stylingandroid.com/about/) blog and find an app to make to apply what I've been learning.
-
-I found this awesome app design and decided to make this app.
+**Inspiration**  
+Recently, I started learning Android "again" from this brilliant [Styling Android](https://blog.stylingandroid.com/about/) blog and find an app to make to apply what I've been learning.  
+I found this awesome app design and decided to make this app.  
 [BookMyShow-App-UI-Redesign](https://www.behance.net/gallery/63143545/BookMyShow-App-UI-Redesign)
 
-**Demo video**
-
-Here what I've achieved so far.
+**Demo video**  
+Here what I've achieved so far.  
 [youtube][bookmyshow_youtube]
 
 
-**SourceCode**
-
-I'm making this app in purpose of learning, I'm not having intent of publishing this app once I've done as I havn't asked for permisson from the design owner yet.
+**SourceCode**  
+I'm making this app in purpose of learning, I'm not having intent of publishing this app once I've done as I havn't asked for permisson from the design owner yet.  
 Therefore, source code will not be shared in this mean time.
 
