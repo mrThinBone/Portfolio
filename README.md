@@ -70,11 +70,11 @@ I found this awesome app design and decided to make this app.
 **Demo video**  
 Here what I've achieved so far.  
 [youtube](https://youtu.be/yDVd7v69HCo)  
-*map is still a picture, there're some lagging and blurring in the video but it is because I'm using Vysor for recording.*
+*map is still a picture, if there're some lagging and blurring in the video, it is because I was using Vysor for recording.*
 
 **SourceCode**  
 I'm making this app in purpose of learning, I'm not having intent of publishing this app once I've done as I havn't asked for permisson from the design owner yet.  
 Therefore, source code will not be shared in this mean time.
 
 **CreditTo**  
-Thank to two awesome work from [adonixis/android-submit-credit-card-flow](https://github.com/adonixis/android-submit-credit-card-flow) and [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
+Thank to two great works from [adonixis/android-submit-credit-card-flow](https://github.com/adonixis/android-submit-credit-card-flow) and [yarolegovich/DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
